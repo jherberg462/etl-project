@@ -18,5 +18,5 @@ Postgres was used to load our data in a SQL database. The function used within p
 
 We next could in theory analyze all of our data to draw conclusions as to why flights in 2015 were delayed or cancelled.
 
-Contributors
-Jeremiah Herberg, Chris Suchite, Jenniffer Lockwood, Celina Akwo, Richard Hamilton
+## Contributors
+**Jeremiah Herberg, Chris Suchite, Jenniffer Lockwood, Celina Akwo, Richard Hamilton
