@@ -1,7 +1,7 @@
 # etl-project
 
-Extract
-Initially we were unable to push the 1st Kaggle file to our github repo. We found out that github has a file limit. As a work around we created 12 csv files out of the main airline.csv https://www.kaggle.com/usdot/flight-delays#airlines.csv due to the limit. To read in all 12 csv files at once created a for loop and set the files to a variable called "filepaths".
+##Extract
+Initially we were unable to puse.com/usdot/flight-delays#airlines.csv due to the limit. To read in all 12 csv files at once created a foh the 1st Kaggle file to our github repo. We found out that github has a file limit. As a work around we created 12 csv files out of the main airline.csv https://www.kagglr loop and set the files to a variable called "filepaths".
 
 For our second dataset we used the city_attributes.csv related to historical hourly weather data https://www.kaggle.com/selfishgene/historical-hourly-weather-data#city_attributes.csv. The goal of this project was to potentially find any reasoning for flight delays or cancellations for the cities that were available in this dataset.
 
